@@ -175,4 +175,3 @@ int main() {
     printf("stores the relationship between every operator and its operands.\n");
 
     return 0;
-}
